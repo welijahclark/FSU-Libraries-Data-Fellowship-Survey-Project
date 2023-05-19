@@ -12,10 +12,12 @@ Question 1 [Q1]: Description of academic level. Survey respondents were numerica
 Question 2 [Q2]: Description of respondent’s major. This first version of this variable [Q2NV1] was coded 0 = Arts and Humanities, 1 = Social Sciences and/or Business, and 2 = STEM, whereas the second version of this variable [Q2NV2] was coded as 0 = Arts and Humanities, 1 = Social Sciences, 2 = Business, and 3 = STEM. 
 
 Question 3 [Q3]: Description of whether a survey respondent heard of a research data service. This question yielded six different variables. The first five were for each individual research data service, where 0=did not hear of that specific service and 1 = heard of that specific service. There was also a variable added for hearing of at least one research data service, where 0=did not hear of any services and 1 = heard of at least one service. 
-  #Additional Note: A-E at the end of a Q3 variable in the R code refers to each individual data service in the question.
+
+#Additional Note: A-E at the end of a Q3 variable in the R code refers to each individual data service in the question.
   
 Question 4 [Q4]: Description of whether someone proceeded to use a research data service. The question was coded as a binary variable, where No = 0 = did not use any research data services and Yes = 1 = used at least one research data service.
-   #Additional Note: A-E at the end of a Q4 variable refers to each individual data service in the question.
+  
+  #Additional Note: A-E at the end of a Q4 variable refers to each individual data service in the question.
    
 Question 5 [Q5]: Description of whether a survey respondent used research data service. This question yielded six different variables. The first five variables were for each individual research data service, where 0 = did not use that specific service, and 1 = used that specific service.
 
