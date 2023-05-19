@@ -30,6 +30,8 @@ Question 8 [Q8]: This open-response question allowed for further commentary on t
 Library Staff [LibStaff, RankedLibStaff] : The beta test version of our survey included OPS workers, most of whom were also students. Due to this pre-existing data, we could merge the initial and final survey data into one data file. Statistical testing between the first and second survey groups yielded no statistically significant difference in response patterns, so we elected to use the combined dataset.
 
 
+
+
 #Survey Design#
 
 In order to gather data for this research endeavor, we implemented two rounds of a 1-2 minute survey with eight questions. For our beta version of the survey that was tested with OPS staff within FSU Libraries, the questions that were asked were as follows:
