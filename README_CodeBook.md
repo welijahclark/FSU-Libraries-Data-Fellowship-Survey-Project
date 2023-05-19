@@ -31,6 +31,7 @@ Library Staff [LibStaff, RankedLibStaff] : The beta test version of our survey i
 
 
 #Survey Design#
+
 In order to gather data for this research endeavor, we implemented two rounds of a 1-2 minute survey with eight questions. For our beta version of the survey that was tested with OPS staff within FSU Libraries, the questions that were asked were as follows:
 
 1.	“What is your current academic standing?”
