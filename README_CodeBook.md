@@ -131,10 +131,15 @@ Using additional information given to us from respondents for the beta survey on
 5.	Which of the following FSU research data services have you used? Please check all that apply.
 
 ○	Workshops and training opportunities (e.g. Intro to Python Bootcamp, R, MATLAB, SPSS, QGIS, etc)
+
 ○	Consultations with data librarians (e.g. scheduling an appointment with a subject librarian to ask about specialized questions)
+
 ○	Data reference hours (i.e. using the “Ask a Data Librarian” feature on the FSU Libraries website to chat with a data librarian)
+
 ○	Research data management (i.e. consulting with research librarians to develop a research data preservation plan for your research)
+
 ○	Data repositories and statistical databases (e.g; using DigiNole to store your own research data, using the FSU Libraries website to find data)
+
 ○	None of the above
 
 6.	On average, how often do you use any FSU research data services?
