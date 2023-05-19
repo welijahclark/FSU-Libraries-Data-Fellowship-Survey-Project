@@ -115,6 +115,7 @@ Using additional information given to us from respondents for the beta survey on
 ○	Other
 2.	What is your major?
 ○	Open-response text box
+
 3.	Which of the following FSU research data services have you heard of? Please check all that apply. (Research Data Services are defined as "library resources to help students and faculty manage, find, use, analyze, store, and learn about data".)
 ○	Workshops and training opportunities (e.g. Intro to Python Bootcamp, R, MATLAB, SPSS, QGIS, etc)
 ○	Consultations with data librarians (e.g. scheduling an appointment with a subject librarian to ask about specialized questions)
