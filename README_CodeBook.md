@@ -5,6 +5,7 @@ Thank you for visiting this repository!
 As a disclaimer, the data used for this survey was confidential student survey data that was analyzed in context of my data fellowship at Florida State University.
 If you would like to ask for more information about this project, please email nruhs@fsu.edu with your questions regarding the data itself.
 
+
 #Variable Coding#
 
 Question 1 [Q1]: Description of academic level. Survey respondents were numerically coded as 1 = First Year, 2 = Second Year, 3 = Third Year, 4 = Fourth Year, with 5 = Five+ Year, Graduate students, and Post-Baccalaureate students in one group. 0=Other (e.g. non-FSU students).
