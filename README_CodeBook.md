@@ -67,25 +67,30 @@ For our beta version of the survey that was tested with OPS staff within FSU Lib
 ○	More than once a month
 ○	At least once a month
 ○	Less than once a month
+
 7.	On a scale of “Strongly Agree” to “Strongly Disagree” how much would you agree with each of the following statements?
+
 ○	“Data literacy is important to my career”?
 i.	Strongly Disagree
 ii.	Disagree
 iii.	Neither Agree Nor Disagree
 iv.	Agree
 v.	Strongly Agree
+
 ○	“Data analysis is important to my career”?
 i.	Strongly Disagree
 ii.	Disagree
 iii.	Neither Agree Nor Disagree
 iv.	Agree
 v.	Strongly Agree
+
 ○	“Data visualization is important to my career”?
 i.	Strongly Disagree
 ii.	Disagree
 iii.	Neither Agree Nor Disagree
 iv.	Agree
 v.	Strongly Agree
+
 8.	What additional data services from FSU Libraries would you be interested in seeing?
 ○	Open response text box
 
