@@ -125,6 +125,7 @@ Using additional information given to us from respondents for the beta survey on
 ○	More than once a month
 ○	At least once a month
 ○	Less than once a month
+
 7.	On a scale of “Strongly Agree” to “Strongly Disagree” how much would you agree with each of the following statements?
 ○	“The ability to critically think about and evaluate data (data literacy) is important to my academics and future career.”
 i.	Strongly Disagree
@@ -132,18 +133,21 @@ ii.	Disagree
 iii.	Neither Agree Nor Disagree
 iv.	Agree
 v.	Strongly Agree
+
 ○	“The ability to analyze data is important to my academics and future career.”
 i.	Strongly Disagree
 ii.	Disagree
 iii.	Neither Agree Nor Disagree
 iv.	Agree
 v.	Strongly Agree
+
 ○	“The ability to visualize data is important to my academics and future career.”
 i.	Strongly Disagree
 ii.	Disagree
 iii.	Neither Agree Nor Disagree
 iv.	Agree
 v.	Strongly Agree
+
 8.	What additional research data services from FSU Libraries would you be interested in seeing?
 ○	Open-response text box
 
