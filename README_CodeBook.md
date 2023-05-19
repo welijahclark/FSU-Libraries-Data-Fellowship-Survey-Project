@@ -41,8 +41,10 @@ For our beta version of the survey that was tested with OPS staff within FSU Lib
 ○	Post-baccalaureate
 ○	Graduate
 ○	Other
+
 2.	What is your major?
 ○	Open response text box
+
 3.	Which of the following FSU research data services have you heard of? (Research Data Services are defined as "library resources to help students and faculty manage, find, use, analyze, store, and learn about data.")
 ○	Workshops and training opportunities
 ○	Consultations with data librarians
@@ -50,17 +52,20 @@ For our beta version of the survey that was tested with OPS staff within FSU Lib
 ○	Research data management
 ○	Data repositories and statistical databases
 ○	None of the above
+
 4.	Have you used any data services from the FSU Libraries system this semester?
 ○	Yes
 ○	No
 ○	I don’t know
-5.	[If “No” was selected for 4, this question was skipped] Which of the following data services have you used?
+
+5.	[If “No” or "I don't know" was selected for 4, this question was skipped] Which of the following data services have you used?
 ○	Workshops and training opportunities
 ○	Consultations with data librarians
 ○	Data reference hours
 ○	Research data management
 ○	Data repositories and statistical databases
 ○	None of the above
+
 6.	[If “No” was selected for 4, this question was skipped] On average, how often do you use any data services from the FSU Libraries system?
 ○	More than once a week
 ○	At least once a week
