@@ -6,16 +6,25 @@ As a disclaimer, the data used for this survey was confidential student survey d
 If you would like to ask for more information about this project, please email nruhs@fsu.edu with your questions regarding the data itself.
 
 #Variable Coding
+
 #Question 1 [Q1]: Description of academic level. Survey respondents were numerically coded as 1 = First Year, 2 = Second Year, 3 = Third Year, 4 = Fourth Year, with 5 = Five+ Year, Graduate students, and Post-Baccalaureate students in one group. 0=Other (e.g. non-FSU students).
+
 #Question 2 [Q2]: Description of respondent’s major. This first version of this variable [Q2NV1] was coded 0 = Arts and Humanities, 1 = Social Sciences and/or Business, and 2 = STEM, whereas the second version of this variable [Q2NV2] was coded as 0 = Arts and Humanities, 1 = Social Sciences, 2 = Business, and 3 = STEM. 
+
 #Question 3 [Q3]: Description of whether a survey respondent heard of a research data service. This question yielded six different variables. The first five were for each individual research data service, where 0=did not hear of that specific service and 1 = heard of that specific service. There was also a variable added for hearing of at least one research data service, where 0=did not hear of any services and 1 = heard of at least one service. 
   #Additional Note: A-E at the end of a Q3 variable refers to each individual data service in the question.
+  
 #Question 4 [Q4]: Description of whether someone proceeded to use a research data service. The question was coded as a binary variable, where No = 0 = did not use any research data services and Yes = 1 = used at least one research data service.
    #Additional Note: A-E at the end of a Q4 variable refers to each individual data service in the question.
+   
 #Question 5 [Q5]: Description of whether a survey respondent used research data service. This question yielded six different variables. The first five variables were for each individual research data service, where 0 = did not use that specific service, and 1 = used that specific service.
+
 #Question 6 [Q6]: This survey question measured how often a respondent who used services would proceed to use a service.
-#Question 7 [Q7.1N, Q7.2N, Q7.3N]: This survey question yielded three separate variable groups for the three statements in the question. For each individual statement, there was an associated value where 1 = Strongly Disagree, 2 = Disagree, 3 = Neither Agree nor Disagree, 4 = Agree, and 5 = Strongly Agree. 
+
+#Question 7 [Q7.1N, Q7.2N, Q7.3N]: This survey question yielded three separate variable groups for the three statements in the question. For each individual statement, there was an associated value where 1 = Strongly Disagree, 2 = Disagree, 3 = Neither Agree nor Disagree, 4 = Agree, and 5 = Strongly Agree.
+
 #Question 8 [Q8]: This open-response question allowed for further commentary on the survey itself and/or research data services. 
+
 # Library Staff [LibStaff, RankedLibStaff] : The beta test version of our survey included OPS workers, most of whom were also students. Due to this pre-existing data, we could merge the initial and final survey data into one data file. Statistical testing between the first and second survey groups yielded no statistically significant difference in response patterns, so we elected to use the combined dataset.
 
 
