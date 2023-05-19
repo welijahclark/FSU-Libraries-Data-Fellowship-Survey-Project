@@ -127,13 +127,16 @@ Using additional information given to us from respondents for the beta survey on
 ○	Yes
 ○	No
 ○	I don’t know
+
 5.	Which of the following FSU research data services have you used? Please check all that apply.
+
 ○	Workshops and training opportunities (e.g. Intro to Python Bootcamp, R, MATLAB, SPSS, QGIS, etc)
 ○	Consultations with data librarians (e.g. scheduling an appointment with a subject librarian to ask about specialized questions)
 ○	Data reference hours (i.e. using the “Ask a Data Librarian” feature on the FSU Libraries website to chat with a data librarian)
 ○	Research data management (i.e. consulting with research librarians to develop a research data preservation plan for your research)
 ○	Data repositories and statistical databases (e.g; using DigiNole to store your own research data, using the FSU Libraries website to find data)
 ○	None of the above
+
 6.	On average, how often do you use any FSU research data services?
 ○	More than once a week
 ○	At least once a week
@@ -142,6 +145,7 @@ Using additional information given to us from respondents for the beta survey on
 ○	Less than once a month
 
 7.	On a scale of “Strongly Agree” to “Strongly Disagree” how much would you agree with each of the following statements?
+
 ○	“The ability to critically think about and evaluate data (data literacy) is important to my academics and future career.”
 i.	Strongly Disagree
 ii.	Disagree
